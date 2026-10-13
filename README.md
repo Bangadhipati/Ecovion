@@ -1,5 +1,7 @@
 # Ecovion 🌿
 
+<img width="2864" height="1536" alt="image" src="https://github.com/user-attachments/assets/b3e242e3-17b3-4b7f-a80b-e4807fdfb578" />
+
 Ecovion is a modern, responsive web application focused on showcasing smart material systems for sustainable agriculture and environmental innovation. This project represents a complete frontend redesign seamlessly integrated with a powerful backend infrastructure to provide a beautiful, scalable experience.
 
 ## Key Features
